@@ -1,22 +1,21 @@
-# Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-# My name is Thien Vu Hieu
+# [Trainee Program 2024 xin chào](https://www.facebook.com/DoanHoiKHMT) ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
-*   🖥️  See my portfolio at [GitHub Page](http://soraishiro.github.io/Myself/)
-*   ✉️  You can contact me at [23521490@gm.uit.edu.vn](mailto:23521490@gm.uit.edu.vn)
-                  
-                  
+<pre>
+       ','. '. ; : ,','
+                                      '..'.,',..'
+                                         ';.'  ,'
+                                          ;;
+                                          ;'
+                            :._   _.------------.___
+                    __      :__:-'                  '--.
+             __   ,' .'    .'             ______________'.
+           /__ '.-  _\___.'          0  .' .'  .'  _.-_.'
+              '._                     .-': .' _.' _.'_.'
+                 '----'._____________.'_'._:_:_.-'--'
+</pre>
 
-<!--
-**Soraishiro/Soraishiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### #TRAINEEPROGRAM2024 #CAVOI ###
+### #DOANKHOA_KHMT  #UIT ###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![alt text](<TP2024 Meeting BG.png>)
