@@ -19,4 +19,7 @@
               > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ < 
 </pre>
 
-<p style="color:#48bef2" align="center">Hieu Thien</p>
+<p align="center">
+  <span style="color:#48bfe2; font-weight:bold;">Hieu Thien</span>
+</p>
+
